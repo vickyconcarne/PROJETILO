@@ -1,0 +1,26 @@
+mai 07, 2018 3:41:22 PM logger.LoggerFactory getLogger
+INFOS: log file created
+mai 07, 2018 3:41:22 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 07, 2018 3:41:22 PM RunChatClient launch
+INFOS: Creating client to pc131-21 at port 1394 with verbose off ... 
+mai 07, 2018 3:41:22 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 07, 2018 3:41:22 PM chat.client.ChatClient <init>
+INFOS: ChatClient: socket created
+mai 07, 2018 3:41:22 PM chat.client.ChatClient <init>
+INFOS: ChatClient: got client output stream to server
+mai 07, 2018 3:41:22 PM chat.client.ChatClient <init>
+INFOS: ChatClient: sending name to server ... 
+mai 07, 2018 3:41:22 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 07, 2018 3:41:22 PM chat.client.UserHandler <init>
+INFOS: UserHandler: creating user input buffered reader ... 
+mai 07, 2018 3:41:22 PM chat.client.UserHandler <init>
+INFOS: UserHandler: creating server output print writer ... 
+mai 07, 2018 3:41:22 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 07, 2018 3:41:22 PM chat.client.ServerHandler <init>
+INFOS: ServerHandler: creating server input reader ... 
+mai 07, 2018 3:41:22 PM chat.client.ServerHandler <init>
+INFOS: ServerHandler: creating user output ... 

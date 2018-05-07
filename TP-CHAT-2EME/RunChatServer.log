@@ -1,0 +1,56 @@
+mai 07, 2018 3:41:18 PM logger.LoggerFactory getLogger
+INFOS: log file created
+mai 07, 2018 3:41:18 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 07, 2018 3:41:18 PM RunChatServer setAttributes
+INFOS: Setting quit on last client to false
+mai 07, 2018 3:41:18 PM RunChatServer launch
+INFOS: Creating server on port 1394 with timeout 5000 ms and verbose off
+mai 07, 2018 3:41:18 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 07, 2018 3:41:18 PM chat.server.ChatServer <init>
+INFOS: ChatServer::ChatServer(port = 1394, timeout = 5000, quit = false)
+mai 07, 2018 3:41:18 PM RunChatServer launch
+INFOS: Waiting for server to terminate ... 
+mai 07, 2018 3:41:22 PM chat.server.ChatServer run
+INFOS: ChatServer: Creatingc client input stream to get client's name ... 
+mai 07, 2018 3:41:22 PM chat.server.ChatServer run
+INFOS: ChatServer: reading client's name: 
+mai 07, 2018 3:41:22 PM chat.server.ChatServer run
+INFOS: ChatServer: client name Zébulon
+mai 07, 2018 3:41:22 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 07, 2018 3:41:22 PM chat.server.InputClient <init>
+INFOS: InputClient: Creating Input Stream ... 
+mai 07, 2018 3:41:22 PM chat.server.InputOutputClient <init>
+INFOS: Client: Creating Output Stream ... 
+mai 07, 2018 3:41:22 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 07, 2018 3:41:27 PM chat.server.ChatServer run
+INFOS: ChatServer: Creatingc client input stream to get client's name ... 
+mai 07, 2018 3:41:27 PM chat.server.ChatServer run
+INFOS: ChatServer: reading client's name: 
+mai 07, 2018 3:41:27 PM chat.server.ChatServer run
+INFOS: ChatServer: client name Ténéphore
+mai 07, 2018 3:41:27 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 07, 2018 3:41:27 PM chat.server.InputClient <init>
+INFOS: InputClient: Creating Input Stream ... 
+mai 07, 2018 3:41:27 PM chat.server.InputOutputClient <init>
+INFOS: Client: Creating Output Stream ... 
+mai 07, 2018 3:41:27 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 07, 2018 3:42:38 PM chat.server.InputOutputClient cleanup
+INFOS: Client::cleanup: closing output stream ... 
+mai 07, 2018 3:42:38 PM chat.server.InputClient cleanup
+INFOS: MainClient::cleanup: closing input stream ... 
+mai 07, 2018 3:42:38 PM chat.server.InputClient cleanup
+INFOS: MainClient::cleanup: closing client socket ... 
+mai 07, 2018 3:42:38 PM chat.server.ChatServer cleanup
+INFOS: ChatServer::run: still 1 threads remaining ...
+mai 07, 2018 3:42:39 PM chat.server.InputOutputClient cleanup
+INFOS: Client::cleanup: closing output stream ... 
+mai 07, 2018 3:42:39 PM chat.server.InputClient cleanup
+INFOS: MainClient::cleanup: closing input stream ... 
+mai 07, 2018 3:42:39 PM chat.server.InputClient cleanup
+INFOS: MainClient::cleanup: closing client socket ... 
